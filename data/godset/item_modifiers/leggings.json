@@ -1,0 +1,8 @@
+{
+  "function": "minecraft:set_components",
+  "components": {
+    "minecraft:custom_data": { "god_set": 1 },
+    "minecraft:enchantment_glint_override": true,
+    "minecraft:display": { "Name": "{\"text\":\"Незеритовые поножи\",\"color\":\"gold\",\"bold\":true,\"italic\":false}" }
+  }
+}
